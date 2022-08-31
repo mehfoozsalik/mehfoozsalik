@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehfoozsalik
-- 👀 I’m a Software Engineer who love Designing, Programming, Business, and Pencil Sketching. 
+- 👀 I’m a Software Engineer who love Designing, Programming, Business Development, and Sketching. 
 - 🌱 I’m currently Working and Learning ...
 - 💞️ I’m looking to collaborate on Front End and Back End Design and Development.
 - 📫 How to reach me mehfooz.netlify.app
