@@ -1,5 +1,5 @@
-A multidisciplinary designer with a curious mind, I enjoy meeting new people and understanding how they are solving problems, this is one of the reasons why I invest my time in meetups from product management to everything related to design (Research, design thinking, Problem to Solution, design system, Programming, etc.) and talking to people in general, as always can be an opportunity to learn something new. I see it as a chance to improve myself as a professional and put things into practice when I’m creating my solutions.
-
+Hi,
+My name is Mehfooz Salik. I am a Software Engineer. I see Engineering as a way to make life easier and better for people. It’s not only about how things made, but also about how they work and solve real problems. I enjoy working with others, learning from different ideas, and turning them into clear and useful solutions. What I like most is that design and technology keep changing, giving me new chances to grow and improve my work.
 
 <!---
 mehfoozsalik/mehfoozsalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
